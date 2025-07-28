@@ -4,7 +4,7 @@
 <h3 align="center">A dedicated DevOps and Software Engineering professional with deep expertise in Linux, Networking, and Cybersecurity. Skilled in building secure CI/CD pipelines, infrastructure automation, and cloud technologies, alongside strong penetration testing capabilities.</h3>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/78042851/210162903-bad390bb-4355-4002-89bd-a1ddcd031371.svg" width="100" height="100">
+  <img src="https://github.com/PoorvajHinge/PoorvajHinge/blob/f200e58fd6835674e46e2b5f99f7453d21324183/img.png" width="100" height="100">
 </p>
 
 <p align="right">
