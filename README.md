@@ -1,19 +1,211 @@
-<h1 align="center">Hi 👋, I'm Poorvaj Hinge</h1>
-<h3 align="center">A dedicated DevOps and Software Engineering professional with deep expertise in Linux, networking, and cybersecurity. Skilled in building secure CI/CD pipelines, infrastructure automation, and cloud technologies, alongside strong penetration testing capabilities.</h3>
+<!--  README.md  -->
+<!--  Designed by: Poorvaj Hinge  -->
+<!--  Theme: “Hacker’s Playground”  -->
 
-- 🌱 I’m currently learning **Anisble,Data-Structures,Jenkins**
+<div align="center">
 
-- 💬 Ask me about **Ethical Hacking,Bug Bounty,DataStructures**
+<!--  ASCII intro (pure CSS animation)  -->
+<pre id="matrix-rain"></pre>
 
-- 📫 How to reach me **hingepoorvaj@gmail.com**
+<!--  Glitch title  -->
+<h1 class="glitch" data-text="Poorvaj Hinge">
+  <span>Poorvaj Hinge</span>
+</h1>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/poorvaj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="poorvaj/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/hingepoorvaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hingepoorvaj" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/hingepoorvaj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hingepoorvaj/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/hingepoorvaj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="hingepoorvaj/" height="30" width="40" /></a>
+<!--  Subtitle  -->
+<h3 align="center">
+  DevOps Engineer | Offensive-Security Hobbyist | Terminal Addict
+</h3>
+
+<!--  Live GIF: hacker on terminal  -->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzZrc2g0Z2Z3ZWZ0bWk4dDVvb2Y0Y3Z2dGRrd2RtdG5tZ25mNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SXlRvdYYzS9dS/giphy.gif" width="480" alt="Hacker in action"/>
+
+</div>
+
+---
+
+<!--  Dynamic typing text  -->
+<p align="center">
+  <span id="typewriter"></span><span class="cursor">|</span>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
+---
+
+### 🧠 Currently Hacking On
+- 🔐 **Ansible** – infrastructure-as-code at scale  
+- 🧱 **Data Structures** – low-level wizardry  
+- 🚀 **Jenkins** – CI/CD pipelines with security gates  
+
+### 💬 Ask Me Anything
+Ethical Hacking • Bug-Bounty Methodology • Linux Internals • Secure Pipeline Design
+
+### 📬 Reach Out
+<a href="mailto:hingepoorvaj@gmail.com">📧 hingepoorvaj@gmail.com</a>
+
+---
+
+### 🔗 Connect
+<p>
+  <a href="https://linkedin.com/in/poorvaj/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/hingepoorvaj"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white"/></a>
+  <a href="https://leetcode.com/hingepoorvaj/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black"/></a>
+  <a href="https://auth.geeksforgeeks.org/user/hingepoorvaj/"><img src="https://img.shields.io/badge/-GeeksforGeeks-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white"/></a>
+</p>
+
+---
+
+### 🛠️ Arsenal
+<p>
+  <!--  Replace with your actual tech-stack icons  -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" alt="kubernetes"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" alt="bash"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" alt="aws"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40" alt="jenkins"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="40" height="40" alt="grafana"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="postgresql"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="git"/>
+</p>
+
+---
+
+<!--  Stats (auto-updating via GitHub API)  -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=poorvaj-hinge&show_icons=true&theme=radical" alt="stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=poorvaj-hinge&theme=radical" alt="streak"/>
+</p>
+
+<!--  Animated footer  -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff00&height=120&section=footer"/>
+</div>
+
+<!--  Pure-CSS & JS eye-candy  -->
+<style>
+/*  Glitch effect  */
+.glitch {
+  position: relative;
+  font-size: 3.5rem;
+  font-weight: 700;
+  color: #00ff00;
+  letter-spacing: .1em;
+  animation: glitch-skew 1s infinite linear alternate-reverse;
+}
+.glitch span {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.glitch::before,
+.glitch::after {
+  content: attr(data-text);
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: #000;
+}
+.glitch::before {
+  animation: glitch-anim-1 2s infinite linear alternate-reverse;
+  color: #ff00ff;
+  z-index: -1;
+}
+.glitch::after {
+  animation: glitch-anim-2 2s infinite linear alternate-reverse;
+  color: #00ffff;
+  z-index: -2;
+}
+@keyframes glitch-anim-1 {
+  0% { clip-path: inset(40% 0 61% 0); }
+  20% { clip-path: inset(92% 0 1% 0); }
+  40% { clip-path: inset(43% 0 1% 0); }
+  60% { clip-path: inset(25% 0 58% 0); }
+  80% { clip-path: inset(54% 0 7% 0); }
+  100% { clip-path: inset(58% 0 43% 0); }
+}
+@keyframes glitch-anim-2 {
+  0% { clip-path: inset(65% 0 8% 0); }
+  20% { clip-path: inset(13% 0 48% 0); }
+  40% { clip-path: inset(1% 0 53% 0); }
+  60% { clip-path: inset(75% 0 16% 0); }
+  80% { clip-path: inset(98% 0 1% 0); }
+  100% { clip-path: inset(22% 0 67% 0); }
+}
+@keyframes glitch-skew {
+  0% { transform: skew(0deg); }
+  10% { transform: skew(-2deg); }
+  20% { transform: skew(3deg); }
+  30% { transform: skew(-1deg); }
+  40% { transform: skew(2deg); }
+  50% { transform: skew(-3deg); }
+  60% { transform: skew(1deg); }
+  70% { transform: skew(-2deg); }
+  80% { transform: skew(3deg); }
+  90% { transform: skew(-1deg); }
+  100% { transform: skew(0deg); }
+}
+
+/*  Typewriter cursor  */
+.cursor {
+  color: #00ff00;
+  animation: blink 1s infinite;
+}
+@keyframes blink {
+  0%, 50% { opacity: 1; }
+  51%, 100% { opacity: 0; }
+}
+
+/*  Matrix rain canvas  */
+#matrix-rain {
+  width: 100%;
+  height: 120px;
+  background: #000;
+  overflow: hidden;
+  font-family: 'Courier New', monospace;
+  font-size: 14px;
+  line-height: 1;
+}
+</style>
+
+<script>
+/*  Typewriter effect  */
+const txts = [
+  "Ethical Hacker 🕵️‍♂️",
+  "DevOps Engineer ⚙️",
+  "Bug-Bounty Hunter 🐛",
+  "Linux Lover 🐧"
+];
+let i = 0, j = 0, forward = true;
+const typewriter = document.getElementById('typewriter');
+setInterval(() => {
+  if (forward) {
+    typewriter.textContent = txts[i].slice(0, ++j);
+    if (j === txts[i].length) forward = false;
+  } else {
+    typewriter.textContent = txts[i].slice(0, --j);
+    if (j === 0) { forward = true; i = (i + 1) % txts.length; }
+  }
+}, 120);
+
+/*  Matrix rain  */
+const canvas = document.getElementById('matrix-rain');
+const ctx = canvas.getContext('2d');
+canvas.height = 120;
+const cols = Math.floor(canvas.width / 14);
+const drops = Array(cols).fill(1);
+function drawMatrix() {
+  ctx.fillStyle = 'rgba(0, 0, 0, 0.05)';
+  ctx.fillRect(0, 0, canvas.width, canvas.height);
+  ctx.fillStyle = '#00ff00';
+  ctx.font = '14px Courier';
+  drops.forEach((y, x) => {
+    const text = String.fromCharCode(0x30A0 + Math.random() * 96);
+    ctx.fillText(text, x * 14, y * 14);
+    drops[x] = y > 100 + Math.random() * 1e4 ? 0 : y + 1;
+  });
+}
+setInterval(drawMatrix, 50);
+</script>
