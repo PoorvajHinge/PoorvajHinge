@@ -18,7 +18,7 @@
 </h3>
 
 <!--  Live GIF: hacker on terminal  -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzZrc2g0Z2Z3ZWZ0bWk4dDVvb2Y0Y3Z2dGRrd2RtdG5tZ25mNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SXlRvdYYzS9dS/giphy.gif" width="480" alt="Hacker in action"/>
+<img src="https://raw.githubusercontent.com/poorvaj-hinge/poorvaj-hinge/main/assets/hacker.gif" width="480" alt="Hacker in action"/>
 
 </div>
 
