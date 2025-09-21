@@ -1,9 +1,12 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule: # 03:00 JST == 18:00 UTC
+  schedule:
     - cron: "59 23 * * 6"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -11,6 +14,9 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          token: ${{ secrets.GITHUB_TOKEN }}
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -20,5 +26,5 @@ jobs:
           git config user.name "PoorvajHinge"
           git config user.email "hingepoorvaj@gmail.com"
           git add -A .
-          git commit -m "chore(stats) 🎛️: weekly 3d contribution added"
+          git commit -m "chore(stats) 🎛️: weekly 3d contribution added" || echo "No changes to commit"
           git push
